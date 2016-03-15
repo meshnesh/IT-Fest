@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/jsr305-2.0.1_8f8a073223c1bbd7fdfeb707589518df70fb8b5b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.0.0_7da43c68e74d95eb17b4cae51175ea81ffa4fa8e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/third_party/svg-android/libs/svg-android-2.0.7-20150515.214425-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d63d23b0eee491c984e942cfe4903e735d45711">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/svg-android-2.0.7-20150515.214425-1_e0f3be68f055b3a8a0a5db2ea594c9e91681e89c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/third_party/basic-http-client/libs/basic-http-client-android-0.88.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62aa3f0df0148b934c29a8085d01e9839955e06e">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/basic-http-client-android-0.88_684ba88c0c2f260744e2303ccb096625523dc8e0.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_df59623981304d9ed8bc5d0a34cb0a7ee83aaa05.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/third_party/disklrucache/libs/disklrucache-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8b8ae20dc00e08e274a5f8d6578b370a9393e61">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/disklrucache-2.0.2_ad9f7f607056c2bbb67cb1d4c4dde4eb1b4bff2f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8492afc33d1fdd8b173367506de84cba77438cc1.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/libs/gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c176ef93e24088d34cad49dee9420b05d4a8ada">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/gcm_7da31b1bf3b26f6188a93ad5402269812e684466.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/guava-18.0_b26e9faa5082406431eeab8e17d04504fc12ce46.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_460a599c4c1da0c1e33b5a9b35ab94f596cbc40f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.0.0_4e8e5c10da37845d1b119f523b089d3abea7e4f3.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_202a6589e961f6754d25911c4cf5b9a21e0d6638.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.android.support.test.espresso-espresso-idling-resource-2.0_ae09cfb2d5e5a279a0075b6c29637e027fc9877b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/third_party/volley/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2eb3ac285708f320b3a1eb753332b796dc89a4a">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/volley_513ca20b1f93832c8bf2b7a41b8654dc3251862a.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_2024a5057e89f19eb396e2de8c8d8c35ac0bda2c.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/glide-3.5.2_9427d13aec075e186ee1f9cd6483471627c4b96b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_8c46747ff80b64b26e1f21c857474a5194e5d54e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.0.0_c61fc7bbbb7fe5ae6d4cdb58b0df864ad58d466b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.3.4_ce2a464bf0ea86047fcb9ebb9ffad3604765fb9c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.0.0_1264b9a64152b1b0f64e260d8bbc7bf166227654.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/android-sliding-up-panel-master-8129831576/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="975e09eb360f12d7fafe0a1fd5066e43b9d8c9ab">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-android-sliding-up-panel-master-8129831576_e23d975c6fa550ae1d9f5c4f604a54b0ec7555d2.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.1_7b4191fff6ea9dd3da40dc52d4a8a8f76a0492b0.jar" />
+    </item>
+    <item
+        jar="/Users/tune/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/gson-2.3_d43fdd0a6b2e8079b21cf868e0da0765ef4fd248.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_6e0e5c6ac523039523343867ce78c2bca86a81de.jar" />
+    </item>
+    <item
+        jar="/Users/tune/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_39b01d59258d878b79b8131fd8fcd9bee4e6d71e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.0.0_f3df888e078cbdb801f49a2b2726c59f610c1d2e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Volumes/Projects/android-projects/IT-Fest/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.0.0_3e75a607484b1248434b72a39fe273efd3852994.jar" />
+    </item>
+
+</items>
